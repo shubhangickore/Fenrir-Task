@@ -19,7 +19,7 @@ Clean and modular component structure
 
 ## Live Demo
 
---Live URL: [https://fenrirtask1.vercel.app/]
+- Live URL: [https://fenrirtask1.vercel.app/]
 
 ## Tech Stack
 - React.js – Frontend library for building UI
@@ -31,7 +31,7 @@ Clean and modular component structure
 - Vite – Project bundler
 
   ## Known Issues / Notes
-  - Currently, clicking on the sidebar navigation does not directly navigate to the Scans page.
+- Currently, clicking on the sidebar navigation does not directly navigate to the Scans page.
 
 - To view scan details, you need to click on the individual scan rows in the table.
 
