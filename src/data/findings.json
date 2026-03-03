@@ -1,0 +1,34 @@
+[
+  {
+    "id": "F1",
+    "title": "SQL Injection",
+    "severity": "Critical",
+    "endpoint": "/api/v1/login",
+    "description": "Unsanitized input allows SQL injection.",
+    "recommendation": "Use parameterized queries."
+  },
+  {
+    "id": "F2",
+    "title": "Weak Password Policy",
+    "severity": "High",
+    "endpoint": "/auth/register",
+    "description": "Passwords shorter than 6 characters allowed.",
+    "recommendation": "Enforce strong password rules."
+  },
+  {
+    "id": "F3",
+    "title": "Missing HTTPS",
+    "severity": "Medium",
+    "endpoint": "/public/home",
+    "description": "Traffic is not encrypted over HTTPS.",
+    "recommendation": "Enable TLS/SSL for all endpoints."
+  },
+  {
+    "id": "F4",
+    "title": "Information Disclosure",
+    "severity": "Low",
+    "endpoint": "/debug/info",
+    "description": "Debug information is exposed publicly.",
+    "recommendation": "Disable debug mode in production."
+  }
+]

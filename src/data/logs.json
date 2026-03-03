@@ -1,0 +1,12 @@
+[
+  "[12:01] GET /api/v1/login",
+  "[12:02] 200 OK",
+  "[12:03] POST /api/v1/register",
+  "[12:04] 201 Created",
+  "[12:05] Spidering target domain...",
+  "[12:06] Found endpoint /api/v1/users",
+  "[12:07] Testing SQL injection on /api/v1/users",
+  "[12:08] Potential vulnerability detected",
+  "[12:09] Validating findings...",
+  "[12:10] Report generation started"
+]
