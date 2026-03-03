@@ -29,3 +29,10 @@ Clean and modular component structure
 - React Router DOM – Client-side routing
 
 - Vite – Project bundler
+
+  ## Known Issues / Notes
+  - Currently, clicking on the sidebar navigation does not directly navigate to the Scans page.
+
+- To view scan details, you need to click on the individual scan rows in the table.
+
+- This is a minor UX limitation and will be improved in future updates.
