@@ -37,4 +37,4 @@ Clean and modular component structure
 
 - This is a minor UX limitation and will be improved in future updates.
 
-- Issue with toggle button
+
