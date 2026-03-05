@@ -36,3 +36,5 @@ Clean and modular component structure
 - To view scan details, you need to click on the individual scan rows in the table.
 
 - This is a minor UX limitation and will be improved in future updates.
+
+- currently not working the toggle button
